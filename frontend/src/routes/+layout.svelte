@@ -1,7 +1,7 @@
-<style lang="postcss" scoped>
-/* UnoCSS will inject styles here */
-</style>
+<script>
+	import '../global.css';
+</script>
 
 <main class="p-6">
-    <slot />
+	<slot />
 </main>
