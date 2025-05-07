@@ -1,2 +1,3 @@
-<h1>Welcome to Twittergram</h1>
-<p>Your feed goes here.</p>
+<h1 class="text-4xl font-bold text-blue-600">
+    Tailwind is working! 🎉
+</h1>  
