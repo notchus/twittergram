@@ -1,0 +1,22 @@
+# Node / SvelteKit / Vite
+node_modules/
+dist/
+.build/
+*.log
+
+# Rust
+target/
+Cargo.lock
+
+# Env + IDE
+.env*
+!.env.example
+.vscode/
+.DS_Store
+
+# Generated
+shared/schema.json
+frontend/shared/models.ts
+
+# OS + misc
+Thumbs.db
